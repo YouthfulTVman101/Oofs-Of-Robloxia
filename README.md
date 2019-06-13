@@ -26,7 +26,7 @@ Given to the first 5 moderators (will replace any that get promoted/demoted with
 Chosen by the current staff members, must be at least a recruit
 
 <h4>Alternative Oofs</h4>
-Give to any alts of an Admin+
+Given to any alts of an Admin+
 
 <h4>Famous Dev</h4>
 Given to well known developers who are very trusted
@@ -74,7 +74,7 @@ Given to users at level 150
 <h4>Commanding Oof</h4>
 Invite 20 people to the server
 
-<h5>Level roles awarded:</h5>
+<h4>Level roles awarded:</h4>
 <ul>
 <li>Level 140</li>
 <li>Level 130</li>
@@ -86,7 +86,7 @@ Invite 20 people to the server
 <h4>Oof Inviter</h4>
 Invite 10 people to the server
 
-<h5>Level roles awarded:</h5>
+<h4>Level roles awarded:</h4>
 <ul>
 <li>Level 90</li>
 <li>Level 80</li>
@@ -101,7 +101,7 @@ Given to users at level 50
 <h4>Oof Recruiter</h4>
 Invite 5 people to the server
 
-<h5>Level roles awarded:</h5>
+<h4>Level roles awarded:</h4>
 <ul>
 <li>Level 40</li>
 <li>Level 30</li>
