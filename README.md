@@ -130,4 +130,4 @@ Mutes are given out after a player breaks a rule
 <h4>Fifth Infraction Per 30 Day Month</h4>
 1 day mute
 
-<h5>Moderators+ can give out mutes at any time for any reason, if a staff member is abusing this power please contact one of the owners</h5>
+<h6>Moderators+ can mute or unmute any member at any time for any reason, if a staff member is abusing this power please contact one of the owners</h6>
