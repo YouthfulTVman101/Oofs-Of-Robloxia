@@ -74,13 +74,25 @@ Given to users at level 150
 <h4>Commanding Oof</h4>
 Invite 20 people to the server
 
-<h5>Color roles rewarded for levels 110, 120, 130, and 140</5>
+<h5>Level roles rewarded:</h5>
+<ul>
+<li>Level 140</li>
+<li>Level 130</li>
+<li>Level 120</li>
+<li>Level 110</li>
+</ul>
 
 <h3>Tier 2</h3>
 <h4>Oof Inviter</h4>
 Invite 10 people to the server
 
-<h5>Color roles rewarded for levels 60, 70, 80, and 90</5>
+<h5>Level roles rewarded:</h5>
+<ul>
+<li>Level 90</li>
+<li>Level 80</li>
+<li>Level 70</li>
+<li>Level 60</li>
+</ul>
 
 <h4>Oof Warriors</h4>
 Given to users at level 50
@@ -89,7 +101,13 @@ Given to users at level 50
 <h4>Oof Recruiter</h4>
 Invite 5 people to the server
 
-<h5>Color roles rewarded for levels 10, 20, 30, and 40</5>
+<h5>Level roles rewarded:</h5>
+<ul>
+<li>Level 40</li>
+<li>Level 30</li>
+<li>Level 20</li>
+<li>Level 10</li>
+</ul>
 
 <h4>Oof Recruit</h4>
 Given to you after being in the server for a week
