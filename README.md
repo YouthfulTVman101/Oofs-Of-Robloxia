@@ -1,7 +1,6 @@
-<a href="https://youthfultvman101.github.io/Home/">Back</a>
-
 <h1>Oofs Of Robloxia Roles</h1>
-This is a list of every role in Oofs Of Robloxia and how to obtain them
+<p>This is a list of every role in Oofs Of Robloxia and how to obtain them</p>
+To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
 <h2>Staff Roles</h2>
 These roles are represnted with a red circle
