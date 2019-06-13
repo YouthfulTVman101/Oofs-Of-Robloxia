@@ -114,3 +114,20 @@ Given to you after being in the server for a week
 
 <h4>Oof Trainee</h4>
 Given to you when you join the server
+
+<h2>Automated Mutes</h2>
+Mutes are given out after a player breaks a rule
+
+<h4>First Infraction Per Day</h4>
+1 minute mute
+
+<h4>Second Infraction Per Day</h4>
+30 minute mute
+
+<h4>Third Infraction Per Week</h4>
+1 hour mute
+
+<h4>Fifth Infraction Per 30 Day Month</h4>
+1 day mute
+
+<h5>Moderators+ can give out mutes at any time for any reason, if a staff member is abusing this power please contact one of the owners</h5>
