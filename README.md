@@ -82,6 +82,9 @@ Invite 20 people to the server
 <li>Level 110</li>
 </ul>
 
+<h4>Commandar Oofs</h4>
+Given to users at level 100
+
 <h3>Tier 2</h3>
 <h4>Oof Inviter</h4>
 Invite 10 people to the server
@@ -116,7 +119,7 @@ Given to you after being in the server for a week
 Given to you when you join the server
 
 <h2>Automated Mutes</h2>
-Mutes are given out after a player breaks a rule
+Mutes are given out after a user breaks a rule
 
 <h4>First Infraction Per Day</h4>
 1 minute mute
