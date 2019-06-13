@@ -74,7 +74,7 @@ Given to users at level 150
 <h4>Commanding Oof</h4>
 Invite 20 people to the server
 
-<h5>Level roles rewarded:</h5>
+<h5>Level roles awarded:</h5>
 <ul>
 <li>Level 140</li>
 <li>Level 130</li>
@@ -86,7 +86,7 @@ Invite 20 people to the server
 <h4>Oof Inviter</h4>
 Invite 10 people to the server
 
-<h5>Level roles rewarded:</h5>
+<h5>Level roles awarded:</h5>
 <ul>
 <li>Level 90</li>
 <li>Level 80</li>
@@ -101,7 +101,7 @@ Given to users at level 50
 <h4>Oof Recruiter</h4>
 Invite 5 people to the server
 
-<h5>Level roles rewarded:</h5>
+<h5>Level roles awarded:</h5>
 <ul>
 <li>Level 40</li>
 <li>Level 30</li>
