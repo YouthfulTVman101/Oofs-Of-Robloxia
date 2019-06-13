@@ -52,10 +52,10 @@ This role often gets changed
 Given to the winners of an event
 
 <h4>IRL Oofs</h4>
-Given to Oof Fwends that Lord Of Oofs and up know in real life (video games aren't real life)
+Given to Oof Fwends that the owners know in real life (video games aren't real life)
 
 <h4>Oof Fwends</h4>
-Given to friends of Lord Of Oofs and up
+Given to friends of the owners
 
 <h2>Teir Roles</h2>
 Represented with a white circle, type !help for more info
