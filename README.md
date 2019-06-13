@@ -62,28 +62,34 @@ Represented with a white circle, type !help for more info
 
 <h3>Tier 4</h3>
 <h4>Great Oof</h4>
-After you get to level 150 any good behavior will be awarded personally by any Admin+ with Rep points, once you reach 100 Rep points you get this rank
+After you get to level 150 any good behavior will be awarded personally by any Admin+ with Rep points, once you reach 1000 Rep points you get this rank
 
 <h4>Ultimate Oof</h4>
 Invite 50 people to the server
 
 <h4>General Oofs</h4>
-Given only to the most active Oofs
+Given to users at level 150
 
 <h3>Tier 3</h3>
 <h4>Commanding Oof</h4>
 Invite 20 people to the server
 
+<h5>Color roles rewarded for levels 110, 120, 130, and 140</5>
+
 <h3>Tier 2</h3>
 <h4>Oof Inviter</h4>
 Invite 10 people to the server
 
+<h5>Color roles rewarded for levels 60, 70, 80, and 90</5>
+
 <h4>Oof Warriors</h4>
-Given to active Oofs
+Given to users at level 50
 
 <h3>Tier 1</h3>
 <h4>Oof Recruiter</h4>
 Invite 5 people to the server
+
+<h5>Color roles rewarded for levels 10, 20, 30, and 40</5>
 
 <h4>Oof Recruit</h4>
 Given to you after being in the server for a week
