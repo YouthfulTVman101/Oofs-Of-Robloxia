@@ -116,8 +116,21 @@ Invite 5 people to the server
 <h4>Oof Recruit</h4>
 Given to you after being in the server for a week
 
+<h4>Minecrafter</h4>
+Given to any user participating in Minecraft Weekend
+
 <h4>Oof Trainee</h4>
 Given to you when you join the server
+
+<h2>Reaction Roles</h2>
+These roles are obtained by reacting to a rolemenu in the welcome channel and do not have any colored circle assigned
+
+<ul>
+  <li>Reactor</li>
+  <li>Epic Gamer Oofs</li>
+  <li>Weeb oofs</li>
+  <li>Subscriber</li>
+</ul>
 
 <h2>Automated Mutes</h2>
 Mutes are given out after a user breaks a rule
