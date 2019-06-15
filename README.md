@@ -116,6 +116,7 @@ Invite 5 people to the server
 <h4>Oof Recruit</h4>
 Given to you after being in the server for a week
 
+<h3>Tier 0</h3>
 <h4>Minecrafter</h4>
 Given to any user participating in Minecraft Weekend
 
