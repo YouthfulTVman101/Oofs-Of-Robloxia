@@ -49,6 +49,9 @@ Given only to family-friendly YouTubers with at least 500 subs
 
 This role often gets changed
 
+<h4>Artsy Oof</h4>
+Given to users who produce such amazing art that even our staff team loved!
+
 <h4>Event Winner Oofs</h4>
 Given to the winners of an event
 
