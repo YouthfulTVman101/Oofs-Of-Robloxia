@@ -44,8 +44,8 @@ Given only to you on your birthday!
 <h4>Former Staff Oof</h4>
 Given to Staff members who quit or were demoted
 
-<h4>YouTuber Oofs</h4>
-Given only to family-friendly YouTubers with at least 500 subs
+<h4>Social Oofs</h4>
+Given to family-friendly YouTubers with at least 500 subs or anyone on twitter advertising Oofs Of Robloxia
 
 This role often gets changed
 
