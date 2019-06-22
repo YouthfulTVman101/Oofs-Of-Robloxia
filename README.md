@@ -45,7 +45,7 @@ Given only to you on your birthday!
 Given to Staff members who quit or were demoted
 
 <h4>Social Oofs</h4>
-Given to family-friendly YouTubers with at least 500 subs or anyone on twitter advertising Oofs Of Robloxia
+Given to family-friendly YouTubers with at least 500 subs or anyone we follow on twitter!
 
 This role often gets changed
 
